@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-service-state-e",
+  "editForm": "data-line-lohf-service-state-e",
+  "external": false,
+  "caption": "Service_state",
+  "name": "DataLinelohfservice_stateL",
+  "className": "service_stateL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-service-state",
+      "modelProjection": "service_stateL"
+    }
+  ]
+}

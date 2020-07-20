@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-order-state-e",
+  "editForm": "data-line-lohf-order-state-e",
+  "external": false,
+  "caption": "Order_state",
+  "name": "DataLinelohforder_stateL",
+  "className": "order_stateL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-order-state",
+      "modelProjection": "order_stateL"
+    }
+  ]
+}

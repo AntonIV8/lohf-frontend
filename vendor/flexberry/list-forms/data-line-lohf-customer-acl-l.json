@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-customer-acl-e",
+  "editForm": "data-line-lohf-customer-acl-e",
+  "external": false,
+  "caption": "Customer_acl",
+  "name": "DataLinelohfcustomer_aclL",
+  "className": "customer_aclL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-customer-acl",
+      "modelProjection": "customer_aclL"
+    }
+  ]
+}

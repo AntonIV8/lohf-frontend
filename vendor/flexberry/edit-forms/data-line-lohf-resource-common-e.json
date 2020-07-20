@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Resource_common",
+  "name": "DataLinelohfresource_commonE",
+  "className": "resource_commonE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-resource-common",
+      "modelProjection": "resource_commonE"
+    }
+  ]
+}

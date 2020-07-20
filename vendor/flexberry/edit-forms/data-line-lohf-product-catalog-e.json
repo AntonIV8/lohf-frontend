@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Product_catalog",
+  "name": "DataLinelohfproduct_catalogE",
+  "className": "product_catalogE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-product-catalog",
+      "modelProjection": "product_catalogE"
+    }
+  ]
+}

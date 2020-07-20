@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-service-usage-spec-e",
+  "editForm": "data-line-lohf-service-usage-spec-e",
+  "external": false,
+  "caption": "Service_usage_spec",
+  "name": "DataLinelohfservice_usage_specL",
+  "className": "service_usage_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-service-usage-spec",
+      "modelProjection": "service_usage_specL"
+    }
+  ]
+}

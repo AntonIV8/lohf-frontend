@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-order-item-e",
+  "editForm": "data-line-lohf-order-item-e",
+  "external": false,
+  "caption": "Order_item",
+  "name": "DataLinelohforder_itemL",
+  "className": "order_itemL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-order-item",
+      "modelProjection": "order_itemL"
+    }
+  ]
+}

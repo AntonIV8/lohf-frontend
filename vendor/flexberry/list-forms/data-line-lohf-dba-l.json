@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-dba-e",
+  "editForm": "data-line-lohf-dba-e",
+  "external": false,
+  "caption": "Dba",
+  "name": "DataLinelohfdbaL",
+  "className": "dbaL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-dba",
+      "modelProjection": "dbaL"
+    }
+  ]
+}

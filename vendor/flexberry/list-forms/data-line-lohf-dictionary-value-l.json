@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-dictionary-value-e",
+  "editForm": "data-line-lohf-dictionary-value-e",
+  "external": false,
+  "caption": "Dictionary_value",
+  "name": "DataLinelohfdictionary_valueL",
+  "className": "dictionary_valueL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-dictionary-value",
+      "modelProjection": "dictionary_valueL"
+    }
+  ]
+}

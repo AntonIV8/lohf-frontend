@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-role-e",
+  "editForm": "data-line-lohf-role-e",
+  "external": false,
+  "caption": "Role",
+  "name": "DataLinelohfroleL",
+  "className": "roleL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-role",
+      "modelProjection": "roleL"
+    }
+  ]
+}

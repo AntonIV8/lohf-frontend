@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Service_characteristic_log",
+  "name": "DataLinelohfservice_characteristic_logE",
+  "className": "service_characteristic_logE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-service-characteristic-log",
+      "modelProjection": "service_characteristic_logE"
+    }
+  ]
+}

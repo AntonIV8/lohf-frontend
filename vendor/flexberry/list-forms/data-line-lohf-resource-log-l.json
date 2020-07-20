@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-resource-log-e",
+  "editForm": "data-line-lohf-resource-log-e",
+  "external": false,
+  "caption": "Resource_log",
+  "name": "DataLinelohfresource_logL",
+  "className": "resource_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-resource-log",
+      "modelProjection": "resource_logL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-resource-shared-e",
+  "editForm": "data-line-lohf-resource-shared-e",
+  "external": false,
+  "caption": "Resource_shared",
+  "name": "DataLinelohfresource_sharedL",
+  "className": "resource_sharedL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-resource-shared",
+      "modelProjection": "resource_sharedL"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+import DataLinelohfservice_spec_characteristicEController from '../data-line-lohf-service-spec-characteristic-e';
+
+var DataLinelohfservice_spec_characteristicENewController = DataLinelohfservice_spec_characteristicEController;
+export default DataLinelohfservice_spec_characteristicENewController;

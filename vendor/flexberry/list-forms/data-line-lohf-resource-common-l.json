@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-resource-common-e",
+  "editForm": "data-line-lohf-resource-common-e",
+  "external": false,
+  "caption": "Resource_common",
+  "name": "DataLinelohfresource_commonL",
+  "className": "resource_commonL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-resource-common",
+      "modelProjection": "resource_commonL"
+    }
+  ]
+}

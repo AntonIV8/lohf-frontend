@@ -1,0 +1,54 @@
+﻿{
+  "name": "DataLinelohfcardinality_type",
+  "modelName": "data-line-lohf-cardinality-type",
+  "className": "cardinality_type",
+  "nameSpace": "DataLine.lohf",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "description",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "cardinality_typeE",
+      "modelName": "data-line-lohf-cardinality-type",
+      "attrs": [
+        {
+          "name": "description",
+          "caption": "Description",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "cardinality_typeL",
+      "modelName": "data-line-lohf-cardinality-type",
+      "attrs": [
+        {
+          "name": "description",
+          "caption": "Description",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

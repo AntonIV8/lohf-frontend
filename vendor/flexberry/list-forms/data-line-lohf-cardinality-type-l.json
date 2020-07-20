@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-cardinality-type-e",
+  "editForm": "data-line-lohf-cardinality-type-e",
+  "external": false,
+  "caption": "Cardinality_type",
+  "name": "DataLinelohfcardinality_typeL",
+  "className": "cardinality_typeL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-cardinality-type",
+      "modelProjection": "cardinality_typeL"
+    }
+  ]
+}

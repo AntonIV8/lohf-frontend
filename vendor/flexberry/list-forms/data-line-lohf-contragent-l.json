@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-contragent-e",
+  "editForm": "data-line-lohf-contragent-e",
+  "external": false,
+  "caption": "Contragent",
+  "name": "DataLinelohfcontragentL",
+  "className": "contragentL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-contragent",
+      "modelProjection": "contragentL"
+    }
+  ]
+}

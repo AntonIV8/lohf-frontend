@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-user-service-order-e",
+  "editForm": "data-line-lohf-user-service-order-e",
+  "external": false,
+  "caption": "User_service_order",
+  "name": "DataLinelohfuser_service_orderL",
+  "className": "user_service_orderL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-user-service-order",
+      "modelProjection": "user_service_orderL"
+    }
+  ]
+}

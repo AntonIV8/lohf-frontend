@@ -1,0 +1,4 @@
+import DataLinelohfresource_characteristic_logEController from '../data-line-lohf-resource-characteristic-log-e';
+
+var DataLinelohfresource_characteristic_logENewController = DataLinelohfresource_characteristic_logEController;
+export default DataLinelohfresource_characteristic_logENewController;

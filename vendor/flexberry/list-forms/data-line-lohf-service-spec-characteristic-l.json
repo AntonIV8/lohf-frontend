@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-service-spec-characteristic-e",
+  "editForm": "data-line-lohf-service-spec-characteristic-e",
+  "external": false,
+  "caption": "Service_spec_characteristic",
+  "name": "DataLinelohfservice_spec_characteristicL",
+  "className": "service_spec_characteristicL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-service-spec-characteristic",
+      "modelProjection": "service_spec_characteristicL"
+    }
+  ]
+}

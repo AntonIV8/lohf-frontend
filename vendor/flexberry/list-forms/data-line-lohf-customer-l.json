@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-customer-e",
+  "editForm": "data-line-lohf-customer-e",
+  "external": false,
+  "caption": "Customer",
+  "name": "DataLinelohfcustomerL",
+  "className": "customerL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-customer",
+      "modelProjection": "customerL"
+    }
+  ]
+}

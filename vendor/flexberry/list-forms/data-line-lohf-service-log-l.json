@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-service-log-e",
+  "editForm": "data-line-lohf-service-log-e",
+  "external": false,
+  "caption": "Service_log",
+  "name": "DataLinelohfservice_logL",
+  "className": "service_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-service-log",
+      "modelProjection": "service_logL"
+    }
+  ]
+}

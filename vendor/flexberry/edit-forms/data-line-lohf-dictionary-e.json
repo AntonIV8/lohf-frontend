@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Dictionary",
+  "name": "DataLinelohfdictionaryE",
+  "className": "dictionaryE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-dictionary",
+      "modelProjection": "dictionaryE"
+    }
+  ]
+}

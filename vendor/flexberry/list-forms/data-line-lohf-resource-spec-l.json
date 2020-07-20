@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-resource-spec-e",
+  "editForm": "data-line-lohf-resource-spec-e",
+  "external": false,
+  "caption": "Resource_spec",
+  "name": "DataLinelohfresource_specL",
+  "className": "resource_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-resource-spec",
+      "modelProjection": "resource_specL"
+    }
+  ]
+}

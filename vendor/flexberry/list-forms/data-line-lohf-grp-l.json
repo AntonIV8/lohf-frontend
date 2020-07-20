@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-grp-e",
+  "editForm": "data-line-lohf-grp-e",
+  "external": false,
+  "caption": "Grp",
+  "name": "DataLinelohfgrpL",
+  "className": "grpL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-grp",
+      "modelProjection": "grpL"
+    }
+  ]
+}

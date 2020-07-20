@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-lohf-catalog-e",
+  "editForm": "data-line-lohf-catalog-e",
+  "external": false,
+  "caption": "Catalog",
+  "name": "DataLinelohfcatalogL",
+  "className": "catalogL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-lohf-catalog",
+      "modelProjection": "catalogL"
+    }
+  ]
+}
